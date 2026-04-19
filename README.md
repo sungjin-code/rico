@@ -1,4 +1,4 @@
-\[[한국어](README-ko.md) | English\]
+\[ [한국어](README-ko.md) | English \]
 
 # Rico — The Easiest Way for Researchers to Build a Homepage
 
@@ -50,6 +50,12 @@ Rico is built exclusively for **researchers**, so you just fill in the fields th
 ![](/assets/demo-dark-blue.webp)
 
 ![](/assets/demo-dark-grey.webp)
+
+## 🤔 Q&A
+
+Please refer to the [Tips](https://rico-v1.vercel.app/tips) page.
+
+If you have any questions, feel free to open an issue!
 
 ---
 
