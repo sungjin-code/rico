@@ -2,11 +2,11 @@
 
 # Rico — The Easiest Way for Researchers to Build a Homepage
 
-![](/assets/demo-en.webp)
-
 [Rico](https://rico-v1.vercel.app/) is a service that lets you **create your own professional homepage in 10 minutes — no coding or design skills needed**.
 
-> https://rico-v1.vercel.app/
+> https://rico-v1.vercel.app
+
+![preview](/assets/demo-light-grey.webp)
 
 ## 🌟 Why Rico?
 
@@ -17,7 +17,7 @@ Rico is built exclusively for **researchers**, so you just fill in the fields th
 ## ✨ Key Features
 
 - **Researcher-tailored input forms** — Fields optimized for academic work, including publication lists, news, and project history.
-- **Live preview** — See exactly what your homepage looks like as you type.
+- **Load from ORCID** — Automatically import papers registered in your ORCID profile.
 - **One-click deploy** — With a GitHub account, your homepage goes live at `yourid.github.io` instantly.
 - **Direct file download** — No GitHub? No problem. Just download the finished files directly.
 - **Free forever & easy to update** — No server costs, and you can reload your saved data to make changes anytime.
@@ -25,6 +25,8 @@ Rico is built exclusively for **researchers**, so you just fill in the fields th
 - **Korean / English support** — Available in both languages.
 
 ## 🚀 How to Get Started
+
+> URL: [rico-v1.vercel.app](https://rico-v1.vercel.app/)
 
 1. **Pick a design** — Choose a theme color you like.
 2. **Fill in your profile** — Add your name, affiliation, email, and other basic info.
