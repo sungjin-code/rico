@@ -4,9 +4,9 @@
 
 [Rico](https://rico-v1.vercel.app/) is a service that lets you **create your own research homepage in 10 minutes — no coding or design skills needed**.
 
-> https://rico-v1.vercel.app
+> v0.1.0: [rico-v1.vercel.app](https://rico-v1.vercel.app/)
 
-![preview](/assets/demo-en.webp)
+![preview](/assets/demo-home-en.webp)
 
 ## 🌟 Why Rico?
 
@@ -27,7 +27,7 @@ Rico is built exclusively for **researchers**, so you just fill in the fields th
 
 ## 🚀 How to Get Started
 
-> URL: [rico-v1.vercel.app](https://rico-v1.vercel.app/)
+> Rico: [rico-v1.vercel.app](https://rico-v1.vercel.app/)
 
 1. **Pick a design** — Choose a theme color you like.
 2. **Fill in your profile** — Add your name, affiliation, email, and other basic info.
